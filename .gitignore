@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build/tooling artifacts kept out of source control
+images/_dimensions.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+
+# Local tooling
+.cache/
+
+# Machine-specific Claude Code settings (keep launch.json, ignore local perms)
+.claude/settings.local.json

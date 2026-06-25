@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="E Multitech Solution">
+  <!-- Background: brand-blue rounded square -->
+  <rect width="512" height="512" rx="96" ry="96" fill="#0d3f8f"/>
+  <!-- Subtle inner gradient overlay -->
+  <defs>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a6bcc" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#0a1f55" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" ry="96" fill="url(#sheen)"/>
+
+  <!-- "e" letterform: heavy geometric sans, white -->
+  <!-- Constructed from rectangles for crisp rendering at all sizes -->
+  <g fill="#ffffff">
+    <!-- Outer ring: rounded rect with cutout effect via mask -->
+    <path d="M256 96
+             C 167.6 96 96 167.6 96 256
+             C 96 344.4 167.6 416 256 416
+             C 312.0 416 361.4 387.2 390.0 343.6
+             L 322.0 305.0
+             C 307.6 327.0 282.6 342.0 254.0 342.0
+             C 215.2 342.0 183.0 314.0 175.6 277.0
+             L 408.0 277.0
+             C 410.6 270.2 412.0 263.0 412.0 256
+             C 412.0 167.6 344.4 96 256 96 Z
+             M 256 170
+             C 290.4 170 319.2 192.4 329.2 222.4
+             L 182.8 222.4
+             C 192.8 192.4 221.6 170 256 170 Z" />
+  </g>
+</svg>

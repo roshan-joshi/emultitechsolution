@@ -1,0 +1,25 @@
+{
+  "name": "emultitechsolution",
+  "version": "1.0.0",
+  "description": "E Multitech Solution — company website (static HTML/CSS/JS with build tooling for SEO and image optimization).",
+  "private": true,
+  "scripts": {
+    "build": "npm run build:favicons && npm run build:og && npm run build:hero-poster && npm run build:images && npm run build:pages && npm run build:head && npm run build:imgs && npm run build:seo && npm run build:discovery",
+    "build:favicons": "node tools/build-favicons.mjs",
+    "build:og": "node tools/build-og.mjs",
+    "build:hero-poster": "node tools/build-hero-poster.mjs",
+    "build:images": "node tools/build-images.mjs",
+    "build:pages": "node tools/build-pages.mjs",
+    "build:head": "node tools/build-head.mjs",
+    "build:imgs": "node tools/build-imgs.mjs",
+    "build:seo": "node tools/build-seo.mjs",
+    "build:discovery": "node tools/build-discovery.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emtssystemboom/emultitechsolution.git"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5"
+  }
+}
