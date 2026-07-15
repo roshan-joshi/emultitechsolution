@@ -58,9 +58,9 @@ export const PAGES = {
     image: 'images/og-default.png',
   },
   'about.html': {
-    title: 'About — Founder-Led Since October 2010',
+    title: 'About — Software Engineering Since 2010',
     description:
-      'Founder-led engineering since 2010 — managed delivery, dedicated teams & developers on demand. Trusted by Nepal Rastra Bank, DiNePa & Upkeep.pro.',
+      'Software engineering and digital product company established in Kathmandu in 2010 — AI-native engineering, auction expertise and platforms built to last.',
     type: 'about',
     image: 'images/about.png',
   },
