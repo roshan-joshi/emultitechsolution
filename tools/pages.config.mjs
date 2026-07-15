@@ -60,7 +60,7 @@ export const PAGES = {
   'about.html': {
     title: 'About — Founder-Led Since October 2010',
     description:
-      'Founder-led engineering since 2010 — 70+ production platforms across 108 countries. Trusted by Nepal Rastra Bank, DiNePa & Upkeep.pro.',
+      'Founder-led engineering since 2010 — managed delivery, dedicated teams & developers on demand. Trusted by Nepal Rastra Bank, DiNePa & Upkeep.pro.',
     type: 'about',
     image: 'images/about.png',
   },
