@@ -21,7 +21,7 @@ export const SITE = {
   legalName: 'E Multitech Solution Pvt. Ltd.',
   brandSuffix: ' | E Multitech Solution',
   description:
-    'Custom software, SaaS, AI, and mobile development partner with 15+ years of global delivery experience.',
+    'Custom software, SaaS, AI, and mobile development partner building software continuously since 2010.',
   logo: 'images/logo.png',
   defaultImage: 'images/og-default.png',
   twitter: '', // e.g. '@emultitech' — leave empty until you have a handle
@@ -53,7 +53,7 @@ export const PAGES = {
   'index.html': {
     title: 'Custom Software, SaaS & AI Partner',
     description:
-      'Founder-led software engineering since 2010. 70+ production platforms shipped across 108 countries — central-bank systems, European SaaS, marketplaces at scale.',
+      'Founder-led software engineering since 2010. hundreds of projects delivered worldwide — central-bank systems, European SaaS, marketplaces at scale.',
     type: 'home',
     image: 'images/og-default.png',
   },
@@ -83,7 +83,7 @@ export const PAGES = {
   'custom-software-development.html': {
     title: 'Custom Software Development Services',
     description:
-      'Custom software built for production load since 2010. Litigation system for Nepal Rastra Bank, EU procurement SaaS, 70+ shipped platforms across 108 countries.',
+      'Custom software built for production load since 2010. Litigation system for Nepal Rastra Bank, EU procurement SaaS, hundreds of projects delivered worldwide.',
     type: 'service',
     image: 'images/custom-software.jpg',
   },
@@ -118,7 +118,7 @@ export const PAGES = {
   'product-engineering.html': {
     title: 'Product Engineering Services',
     description:
-      'End-to-end product engineering — discovery, design, build, ship, scale. For founders without a CTO. 70+ platforms shipped across 4 verticals.',
+      'End-to-end product engineering — discovery, design, build, ship, scale. For founders without a CTO. hundreds of projects across four verticals.',
     type: 'service',
     image: 'images/og-default.png',
   },
@@ -142,7 +142,7 @@ export const PAGES = {
   'industries.html': {
     title: 'Industries We Ship Production Software For',
     description:
-      'Healthcare, banking, procurement, real estate, marketplaces & IoT — every vertical anchored by a named production case study. 15+ years, 70+ platforms.',
+      'Healthcare, banking, procurement, real estate, marketplaces & IoT — every vertical anchored by a named production case study. Building since 2010.',
     type: 'industry',
     image: 'images/og-default.png',
   },
@@ -345,7 +345,7 @@ export const PAGES = {
   'team.html': {
     title: 'Our Team — Engineering & Leadership',
     description:
-      'Meet the team behind 70+ production platforms. Founder-led in-house engineering in Kathmandu since October 2010, APAC partner in Melbourne. No subcontractors.',
+      'Meet the team behind hundreds of projects. Founder-led in-house engineering in Kathmandu since October 2010, APAC partner in Melbourne. No subcontractors.',
     type: 'page',
     image: 'images/about.png',
   },
@@ -361,7 +361,7 @@ export const PAGES = {
   'works.html': {
     title: 'Our Portfolio of Software Projects',
     description:
-      'Portfolio of web, mobile, SaaS, AI & auction platforms — 70+ production deployments across 108 countries, founder-led and built in-house since 2010.',
+      'Portfolio of web, mobile, SaaS, AI & auction platforms — hundreds of projects delivered worldwide, founder-led and built in-house since 2010.',
     type: 'portfolio',
     image: 'images/og-default.png',
   },

@@ -52,12 +52,12 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <text x="190" y="138" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="28" fill="#ffffff" letter-spacing="-0.5">E Multitech Solution</text>
   <text x="190" y="170" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="18" fill="rgba(255,255,255,0.55)" letter-spacing="0.5">Production software since October 2010</text>
 
-  <!-- Big stat: 15+ Years -->
-  <text x="80" y="370" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="180" fill="url(#num)" letter-spacing="-6">16+</text>
+  <!-- Big stat: Since 2010 -->
+  <text x="80" y="370" font-family="Inter, Arial, sans-serif" font-weight="800" font-size="180" fill="url(#num)" letter-spacing="-3">2010</text>
 
   <!-- Headline -->
-  <text x="80" y="450" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="48" fill="#ffffff" letter-spacing="-1">Years building production software</text>
-  <text x="80" y="500" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="26" fill="rgba(255,255,255,0.7)">70+ shipped platforms &#183; 108 countries &#183; 4.8&#9733; on Capterra</text>
+  <text x="80" y="450" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="48" fill="#ffffff" letter-spacing="-1">Building software continuously ever since</text>
+  <text x="80" y="500" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="26" fill="rgba(255,255,255,0.7)">Hundreds of projects &#183; Worldwide delivery &#183; Auction platform rated 4.8&#9733; on Capterra</text>
 
   <!-- Bottom hairline rule -->
   <line x1="80" y1="555" x2="1120" y2="555" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>

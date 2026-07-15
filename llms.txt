@@ -1,27 +1,27 @@
 # E Multitech Solution Pvt. Ltd.
 
-> Custom software, SaaS, AI, and mobile development partner with 15+ years of global delivery experience. Headquartered in Kathmandu, Nepal with a presence in Melbourne, Australia. Serving clients globally since 2010.
+> Custom software, SaaS, AI, and mobile development partner building software continuously since 2010. Headquartered in Kathmandu, Nepal with a presence in Melbourne, Australia. Serving clients globally since 2010.
 
 Use this file to discover the site's structure and the canonical URL for each page. Each link below points to the production page on https://emultitechsolution.com.
 
 ## Company
 
-- [Custom Software, SaaS & AI Partner](https://emultitechsolution.com/): Founder-led software engineering since 2010. 70+ production platforms shipped across 108 countries — central-bank systems, European SaaS, marketplaces at scale.
-- [About — Founder-Led Since October 2010](https://emultitechsolution.com/about.html): Founder-led engineering since 2010 — 70+ production platforms across 108 countries. Trusted by Nepal Rastra Bank, DiNePa & Upkeep.pro.
+- [Custom Software, SaaS & AI Partner](https://emultitechsolution.com/): Founder-led software engineering since 2010. hundreds of projects delivered worldwide — central-bank systems, European SaaS, marketplaces at scale.
+- [About — Software Engineering Since 2010](https://emultitechsolution.com/about.html): Software engineering and digital product company established in Kathmandu in 2010 — AI-native engineering, auction expertise and platforms built to last.
 - [Book a Strategy Call](https://emultitechsolution.com/contact.html): Book a free strategy call with the E Multitech engineering team. Pick a date and time slot — we confirm within 24 hours, no auto-responders.
 - [Get a Free Project Consultation](https://emultitechsolution.com/request_quote.html): Request a free project consultation. Tell us about your project, pick a discovery call slot, and get a response within 48 hours.
 - [Case Studies — Software We Shipped](https://emultitechsolution.com/case-studies.html): Real-world case studies from E Multitech: SaaS, AI, fintech, healthcare, auction platforms, and enterprise systems deployed for clients across 4 continents.
-- [Our Team — Engineering & Leadership](https://emultitechsolution.com/team.html): Meet the team behind 70+ production platforms. Founder-led in-house engineering in Kathmandu since October 2010, APAC partner in Melbourne. No subcontractors.
+- [Our Team — Engineering & Leadership](https://emultitechsolution.com/team.html): Meet the team behind hundreds of projects. Founder-led in-house engineering in Kathmandu since October 2010, APAC partner in Melbourne. No subcontractors.
 - [Security & Compliance Posture](https://emultitechsolution.com/security.html): Our security architecture, compliance posture & due-diligence summary — HIPAA-aligned, BAA available, multi-tenant isolation. For US & EU clients.
 
 ## Services
 
-- [Custom Software Development Services](https://emultitechsolution.com/custom-software-development.html): Custom software built for production load since 2010. Litigation system for Nepal Rastra Bank, EU procurement SaaS, 70+ shipped platforms across 108 countries.
+- [Custom Software Development Services](https://emultitechsolution.com/custom-software-development.html): Custom software built for production load since 2010. Litigation system for Nepal Rastra Bank, EU procurement SaaS, hundreds of projects delivered worldwide.
 - [SaaS Product Development Services](https://emultitechsolution.com/saas-development.html): Multi-tenant SaaS built to survive years in production. DiNePa: 99.4% uptime over 5+ years, sub-500ms latency for EU enterprise procurement.
 - [Mobile App Development Services](https://emultitechsolution.com/mobile-development.html): iOS, Android, Flutter & React Native apps for marketplaces, logistics & healthcare EVV. Upkeep.pro: 500K+ daily appointments for 10K+ pros worldwide.
 - [AI Solutions & Agentic Automation](https://emultitechsolution.com/ai-powered-solutions.html): AI engineered into production systems — document intelligence, voice-to-text, risk detection, predictive ops. Built for regulated industries since 2010.
 - [DevOps & Cloud Engineering](https://emultitechsolution.com/devops-engineer.html): Cloud, CI/CD, Kubernetes, IaC & SRE. DiNePa: 99.4% uptime over 5+ years. NRB: central-bank-grade intranet deployment. Founder-led since 2010.
-- [Product Engineering Services](https://emultitechsolution.com/product-engineering.html): End-to-end product engineering — discovery, design, build, ship, scale. For founders without a CTO. 70+ platforms shipped across 4 verticals.
+- [Product Engineering Services](https://emultitechsolution.com/product-engineering.html): End-to-end product engineering — discovery, design, build, ship, scale. For founders without a CTO. hundreds of projects across four verticals.
 - [Software Development Services](https://emultitechsolution.com/software-development.html): Secure, scalable, high-performance software that streamlines operations and elevates user experience. Web, mobile, SaaS, and enterprise systems.
 - [Healthcare SaaS Development Services](https://emultitechsolution.com/healthcare-saas-development.html): HIPAA-architected healthcare SaaS for US home care, EVV & AI document intelligence. Founder-led since 2010 · in-house engineering team.
 - [Auction Software Development Services](https://emultitechsolution.com/auction-software.html): Penny, reverse, unique-bid, Dutch, price-reveal & eBay-style auction software, built since 2010 for operators across the US, UK, EU, Asia & Australia.
@@ -29,7 +29,7 @@ Use this file to discover the site's structure and the canonical URL for each pa
 
 ## Industries
 
-- [Industries We Ship Production Software For](https://emultitechsolution.com/industries.html): Healthcare, banking, procurement, real estate, marketplaces & IoT — every vertical anchored by a named production case study. 15+ years, 70+ platforms.
+- [Industries We Ship Production Software For](https://emultitechsolution.com/industries.html): Healthcare, banking, procurement, real estate, marketplaces & IoT — every vertical anchored by a named production case study. since 2010, hundreds of projects.
 - [Healthcare Software Development](https://emultitechsolution.com/healthcare.html): EHR, telehealth, clinical workflow, and hospital management software — engineered with HIPAA-architected isolation. Anchored by Adult Home Care SaaS case study.
 - [Real Estate Software Development](https://emultitechsolution.com/realestate.html): Property marketplaces, multi-class listings, MLS/IDX integrations, agent CMS & mortgage-ready lead capture. Anchored by MSG Homes, live in the Philippines.
 
@@ -64,7 +64,7 @@ Use this file to discover the site's structure and the canonical URL for each pa
 
 ## Portfolio & social proof
 
-- [Our Portfolio of Software Projects](https://emultitechsolution.com/works.html): Portfolio of web, mobile, SaaS, AI & auction platforms — 70+ production deployments across 108 countries, founder-led and built in-house since 2010.
+- [Our Portfolio of Software Projects](https://emultitechsolution.com/works.html): Portfolio of web, mobile, SaaS, AI & auction platforms — hundreds of projects delivered worldwide, founder-led and built in-house since 2010.
 - [Client Testimonials](https://emultitechsolution.com/testimonial-all.html): What our clients say about working with E Multitech Solution — from US-based founders to enterprise project leads across Europe and Asia.
 
 ## Blog
