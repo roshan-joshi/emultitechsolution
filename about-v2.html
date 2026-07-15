@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ══════════════════════════════════════════════════════════════════════
+       ABOUT PAGE V2 — STAGING PREVIEW
+       Awaiting executive approval. Not linked from navigation, not in the
+       sitemap, and marked noindex until approved. To make live: see the
+       implementation report (move to about.html, keep about-old.html backup).
+       ══════════════════════════════════════════════════════════════════════ -->
+
+  <title>About — One Accountable Engineering Partner | E Multitech</title>
+  <meta name="description" content="One accountable engineering partner — managed delivery, dedicated teams, and developers on demand. Founder-led from Kathmandu since 2010.">
+  <meta name="robots" content="noindex,nofollow">
+  <link rel="canonical" href="https://emultitechsolution.com/about-v2.html">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="E Multitech Solution">
+  <meta property="og:title" content="About — One Accountable Engineering Partner | E Multitech">
+  <meta property="og:description" content="One accountable engineering partner — managed delivery, dedicated teams, and developers on demand. Founder-led from Kathmandu since 2010.">
+  <meta property="og:url" content="https://emultitechsolution.com/about-v2.html">
+  <meta property="og:image" content="https://emultitechsolution.com/images/og-default.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="About — One Accountable Engineering Partner | E Multitech">
+  <meta name="twitter:description" content="One accountable engineering partner — managed delivery, dedicated teams, and developers on demand. Founder-led from Kathmandu since 2010.">
+  <meta name="twitter:image" content="https://emultitechsolution.com/images/og-default.png">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "url": "https://emultitechsolution.com/about-v2.html",
+    "name": "About E Multitech Solution",
+    "description": "One accountable engineering partner — managed delivery, dedicated teams, and developers on demand. Founder-led from Kathmandu since 2010.",
+    "isPartOf": { "@type": "WebSite", "name": "E Multitech Solution", "url": "https://emultitechsolution.com/" }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Roshan Subedi",
+    "jobTitle": "Founder & Managing Director",
+    "worksFor": { "@type": "Organization", "name": "E Multitech Solution" },
+    "sameAs": ["https://www.linkedin.com/in/roshan-subedi-7285b614/"]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Santosh Bhattarai",
+    "jobTitle": "Director of Partnerships — Australia & APAC",
+    "worksFor": { "@type": "Organization", "name": "E Multitech Solution" },
+    "sameAs": ["https://www.linkedin.com/in/santosh-bhattarai-654184b4/"]
+  }
+  </script>
+
+  <link rel="icon" type="image/svg+xml" href="images/icon-master.svg">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16.png">
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+  <link rel="shortcut icon" href="images/favicon.ico">
+  <link rel="manifest" href="site.webmanifest">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <link rel="preload" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"></noscript>
+  <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"></noscript>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/theme.css">
+
+  <style>
+  /* ═══════════════════════════════════════════════════════════════════════
+     ABOUT V2 — page-scoped styles. Every selector lives under .av2 so no
+     rule can affect any other page. Consumes design tokens from theme.css.
+     ═══════════════════════════════════════════════════════════════════════ */
+  .av2 {
+    --av2-ink: #0f172a;
+    --av2-body: #40506a;
+    --av2-muted: #64748b;
+    --av2-blue: #2563eb;
+    --av2-blue-ink: #1d4ed8;
+    --av2-navy: #0a0f1f;
+    --av2-bg: #ffffff;
+    --av2-bg-soft: #f7f9fc;
+    --av2-line: rgba(15, 23, 42, 0.08);
+    font-family: var(--ff-sans, 'Inter', sans-serif);
+    color: var(--av2-body);
+    background: var(--av2-bg);
+    overflow-x: clip;
+  }
+  .av2 .av2-container { max-width: var(--container-max, 1240px); margin: 0 auto; padding: 0 clamp(1.25rem, 4vw, 2.5rem); }
+  .av2 section { padding: var(--space-section, clamp(4rem, 9vw, 8rem)) 0; }
+
+  /* type */
+  .av2 .av2-eyebrow { display: inline-block; font-size: var(--fs-xs, .75rem); font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--av2-blue); margin-bottom: 1rem; }
+  .av2 h1 { font-size: var(--fs-hero); line-height: var(--lh-tight, 1.05); letter-spacing: var(--ls-tight); font-weight: 800; color: var(--av2-ink); margin: 0 0 1.5rem; }
+  .av2 h2 { font-size: var(--fs-h2); line-height: var(--lh-snug, 1.2); letter-spacing: var(--ls-tight); font-weight: 800; color: var(--av2-ink); margin: 0 0 1rem; }
+  .av2 h3 { font-size: var(--fs-h3); line-height: var(--lh-snug); font-weight: 700; color: var(--av2-ink); margin: 0 0 .5rem; }
+  .av2 p { line-height: var(--lh-loose, 1.7); margin: 0 0 1rem; }
+  .av2 .av2-lead { font-size: var(--fs-lead); color: var(--av2-body); max-width: 46em; }
+  .av2 .av2-head { max-width: 720px; margin-bottom: clamp(2rem, 5vw, 3.5rem); }
+  .av2 .av2-head--center { margin-left: auto; margin-right: auto; text-align: center; }
+
+  /* buttons */
+  .av2 .av2-btn { display: inline-flex; align-items: center; gap: .55rem; font-weight: 600; font-size: 1rem; line-height: 1; padding: 1rem 1.6rem; border-radius: var(--r-pill, 999px); text-decoration: none; transition: transform var(--dur-base, .2s) var(--ease-out), box-shadow var(--dur-base) var(--ease-out), background var(--dur-base); }
+  .av2 .av2-btn:focus-visible { outline: 3px solid var(--av2-blue); outline-offset: 3px; }
+  .av2 .av2-btn--primary { background: var(--av2-blue); color: #fff; box-shadow: 0 1px 2px rgba(15,23,42,.12); }
+  .av2 .av2-btn--primary:hover { background: var(--av2-blue-ink); color: #fff; transform: translateY(-1px); box-shadow: var(--sh-glow); }
+  .av2 .av2-btn--ghost { background: transparent; color: var(--av2-ink); border: 1px solid var(--bd-strong, rgba(15,23,42,.18)); }
+  .av2 .av2-btn--ghost:hover { border-color: var(--av2-ink); color: var(--av2-ink); transform: translateY(-1px); }
+  .av2 .av2-btn--onDark { background: #fff; color: var(--av2-navy); }
+  .av2 .av2-btn--onDark:hover { background: #e8edf7; color: var(--av2-navy); transform: translateY(-1px); }
+  .av2 .av2-btn--ghostDark { background: transparent; color: #fff; border: 1px solid rgba(255,255,255,.35); }
+  .av2 .av2-btn--ghostDark:hover { border-color: #fff; color: #fff; transform: translateY(-1px); }
+
+  /* ── 1. hero ─────────────────────────────────────────────────────────── */
+  .av2-hero { position: relative; padding-top: clamp(9rem, 16vw, 13rem) !important; background:
+      radial-gradient(1100px 460px at 78% -10%, rgba(37, 99, 235, 0.07), transparent 62%),
+      linear-gradient(180deg, #fbfcfe 0%, #ffffff 100%); border-bottom: 1px solid var(--av2-line); }
+  .av2-hero::before { content: ""; position: absolute; inset: 0; pointer-events: none; background:
+      linear-gradient(to right, rgba(15,23,42,.035) 1px, transparent 1px);
+      background-size: 96px 100%; mask-image: linear-gradient(to bottom, rgba(0,0,0,.5), transparent 70%); }
+  .av2-hero .av2-container { position: relative; }
+  .av2-hero h1 { max-width: 15.5em; }
+  .av2-hero h1 span { color: var(--av2-blue); }
+  .av2-hero .av2-lead { margin-bottom: 2.25rem; }
+  .av2-hero .av2-cta-row { display: flex; flex-wrap: wrap; gap: .9rem; align-items: center; }
+  .av2-hero .av2-hero-note { margin-top: 1.5rem; font-size: var(--fs-sm); color: var(--av2-muted); }
+
+  /* ── 2. trust ────────────────────────────────────────────────────────── */
+  .av2-trust { padding-top: clamp(2.5rem, 5vw, 4rem) !important; padding-bottom: clamp(2.5rem, 5vw, 4rem) !important; }
+  .av2-trust .av2-trust-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--av2-line); border: 1px solid var(--av2-line); border-radius: var(--r-lg, 20px); overflow: hidden; }
+  .av2-trust .av2-stat { background: #fff; padding: 2rem 1.5rem; }
+  .av2-trust .av2-stat dt { font-size: clamp(1.9rem, 3vw, 2.6rem); font-weight: 800; letter-spacing: -.02em; color: var(--av2-ink); }
+  .av2-trust .av2-stat dt sup { font-size: .55em; color: var(--av2-blue); font-weight: 800; }
+  .av2-trust .av2-stat dd { margin: .35rem 0 0; font-size: var(--fs-sm); color: var(--av2-muted); line-height: 1.45; }
+
+  /* ── 3. how we work ──────────────────────────────────────────────────── */
+  .av2-models { background: var(--av2-bg-soft); border-top: 1px solid var(--av2-line); border-bottom: 1px solid var(--av2-line); }
+  .av2-models .av2-model-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; }
+  .av2 .av2-model { background: #fff; border: 1px solid var(--av2-line); border-radius: var(--r-lg); padding: 2rem 1.75rem; display: flex; flex-direction: column; transition: box-shadow var(--dur-base) var(--ease-out), transform var(--dur-base) var(--ease-out), border-color var(--dur-base); }
+  .av2 .av2-model:hover { box-shadow: var(--sh-lg); transform: translateY(-3px); border-color: rgba(37,99,235,.28); }
+  .av2 .av2-model .av2-model-icon { width: 44px; height: 44px; border-radius: 12px; display: grid; place-items: center; background: rgba(37,99,235,.08); color: var(--av2-blue); margin-bottom: 1.25rem; }
+  .av2 .av2-model p { font-size: var(--fs-sm); margin-bottom: 1rem; }
+  .av2 .av2-model .av2-model-fit { margin-top: auto; padding-top: .75rem; border-top: 1px dashed var(--av2-line); font-size: var(--fs-xs); color: var(--av2-muted); }
+  .av2 .av2-model .av2-model-fit strong { color: var(--av2-ink); font-weight: 600; }
+
+  /* ── 4. leadership ───────────────────────────────────────────────────── */
+  .av2-leaders .av2-exec { display: grid; grid-template-columns: minmax(280px, 420px) 1fr; gap: clamp(1.5rem, 4vw, 3.5rem); align-items: center; background: #fff; border: 1px solid var(--av2-line); border-radius: var(--r-lg); padding: clamp(1.5rem, 3.5vw, 3rem); box-shadow: var(--sh-md); }
+  .av2-leaders .av2-exec + .av2-exec-second { margin-top: 1.5rem; }
+  .av2-leaders .av2-exec-photo { border-radius: var(--r-md, 12px); overflow: hidden; aspect-ratio: 4/5; background: #eef2f8; }
+  .av2-leaders .av2-exec-photo img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 12%; display: block; }
+  .av2-leaders .av2-exec-role { font-size: var(--fs-sm); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--av2-blue); margin-bottom: .4rem; }
+  .av2-leaders .av2-exec h3 { font-size: clamp(1.6rem, 2.6vw, 2.1rem); margin-bottom: .25rem; }
+  .av2-leaders .av2-exec-where { font-size: var(--fs-sm); color: var(--av2-muted); margin-bottom: 1.1rem; }
+  .av2-leaders .av2-exec blockquote { margin: 0 0 1.1rem; padding-left: 1rem; border-left: 3px solid var(--av2-blue); font-size: var(--fs-lead); font-weight: 600; color: var(--av2-ink); line-height: 1.45; }
+  .av2-leaders .av2-exec .av2-exec-bio { font-size: var(--fs-body); }
+  .av2-leaders .av2-exec .av2-exec-links { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.25rem; }
+  .av2 .av2-minlink { display: inline-flex; align-items: center; gap: .5rem; font-size: var(--fs-sm); font-weight: 600; color: var(--av2-ink); text-decoration: none; border: 1px solid var(--bd-default, rgba(15,23,42,.1)); border-radius: var(--r-pill); padding: .55rem 1rem; transition: border-color var(--dur-fast), color var(--dur-fast), background var(--dur-fast); }
+  .av2 .av2-minlink:hover { border-color: var(--av2-blue); color: var(--av2-blue); }
+  .av2 .av2-minlink:focus-visible { outline: 3px solid var(--av2-blue); outline-offset: 2px; }
+  .av2-exec-second { grid-template-columns: minmax(240px, 320px) 1fr; }
+  .av2-exec-second .av2-exec-photo { aspect-ratio: 4/5; }
+  .av2-exec-second h3 { font-size: clamp(1.4rem, 2.2vw, 1.8rem) !important; }
+
+  /* ── 5. engineering leadership ───────────────────────────────────────── */
+  .av2-heads { background: var(--av2-bg-soft); border-top: 1px solid var(--av2-line); border-bottom: 1px solid var(--av2-line); }
+  .av2-heads .av2-head-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem; }
+  .av2 .av2-headcard { background: #fff; border: 1px solid var(--av2-line); border-radius: var(--r-md); padding: 1.5rem; transition: box-shadow var(--dur-base) var(--ease-out), transform var(--dur-base) var(--ease-out); }
+  .av2 .av2-headcard:hover { box-shadow: var(--sh-md); transform: translateY(-2px); }
+  .av2 .av2-headcard .av2-headcard-photo { width: 72px; height: 72px; border-radius: 50%; overflow: hidden; margin-bottom: 1rem; background: #e2e8f0; display: grid; place-items: center; font-weight: 700; color: #475569; font-size: 1.1rem; }
+  .av2 .av2-headcard .av2-headcard-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .av2 .av2-headcard h3 { font-size: 1.05rem; margin-bottom: .1rem; }
+  .av2 .av2-headcard .av2-headcard-title { font-size: var(--fs-xs); font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--av2-blue); margin-bottom: .6rem; }
+  .av2 .av2-headcard p { font-size: var(--fs-sm); margin: 0; color: var(--av2-muted); }
+
+  /* ── 6. flexible model / process ─────────────────────────────────────── */
+  .av2-process .av2-steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem; counter-reset: av2step; }
+  .av2 .av2-step { position: relative; padding: 1.75rem 1.5rem 1.5rem; border: 1px solid var(--av2-line); border-radius: var(--r-md); background: #fff; }
+  .av2 .av2-step::before { counter-increment: av2step; content: "0" counter(av2step); font-size: var(--fs-xs); font-weight: 800; letter-spacing: .1em; color: var(--av2-blue); display: block; margin-bottom: .9rem; }
+  .av2 .av2-step h3 { font-size: 1.1rem; }
+  .av2 .av2-step p { font-size: var(--fs-sm); color: var(--av2-muted); margin: 0; }
+
+  /* ── 7. why us ───────────────────────────────────────────────────────── */
+  .av2-why { background: var(--av2-navy); }
+  .av2-why .av2-eyebrow { color: #7fa8f5; }
+  .av2-why h2, .av2-why .av2-lead { color: #fff; }
+  .av2-why .av2-lead { color: rgba(226, 232, 240, .82); }
+  .av2-why .av2-why-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.08); border-radius: var(--r-lg); overflow: hidden; }
+  .av2 .av2-why-cell { background: var(--av2-navy); padding: 1.75rem 1.5rem; }
+  .av2 .av2-why-cell h3 { color: #fff; font-size: 1.02rem; margin-bottom: .4rem; }
+  .av2 .av2-why-cell p { color: rgba(203, 213, 225, .75); font-size: var(--fs-sm); margin: 0; line-height: 1.55; }
+  .av2 .av2-why-cell svg { color: #7fa8f5; margin-bottom: .9rem; }
+
+  /* ── 8. journey ──────────────────────────────────────────────────────── */
+  .av2-journey .av2-tl { list-style: none; margin: 0; padding: 0; border-left: 2px solid var(--av2-line); }
+  .av2-journey .av2-tl li { position: relative; padding: 0 0 2.25rem 2rem; }
+  .av2-journey .av2-tl li:last-child { padding-bottom: 0; }
+  .av2-journey .av2-tl li::before { content: ""; position: absolute; left: -7px; top: .35rem; width: 12px; height: 12px; border-radius: 50%; background: #fff; border: 3px solid var(--av2-blue); }
+  .av2-journey .av2-tl .av2-tl-when { font-size: var(--fs-xs); font-weight: 800; letter-spacing: .1em; text-transform: uppercase; color: var(--av2-blue); display: block; margin-bottom: .3rem; }
+  .av2-journey .av2-tl h3 { font-size: 1.1rem; margin-bottom: .3rem; }
+  .av2-journey .av2-tl p { font-size: var(--fs-sm); color: var(--av2-muted); margin: 0; max-width: 56em; }
+  .av2-journey .av2-journey-wrap { display: grid; grid-template-columns: minmax(260px, 380px) 1fr; gap: clamp(2rem, 6vw, 5rem); align-items: start; }
+  .av2-journey .av2-journey-side { position: sticky; top: 110px; }
+
+  /* ── 9. locations ────────────────────────────────────────────────────── */
+  .av2-loc { background: var(--av2-bg-soft); border-top: 1px solid var(--av2-line); border-bottom: 1px solid var(--av2-line); }
+  .av2-loc .av2-loc-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.25rem; }
+  .av2 .av2-loc-card { background: #fff; border: 1px solid var(--av2-line); border-radius: var(--r-lg); padding: 2rem 1.75rem; }
+  .av2 .av2-loc-card .av2-loc-flag { font-size: 1.6rem; line-height: 1; margin-bottom: 1rem; display: block; }
+  .av2 .av2-loc-card h3 { margin-bottom: .2rem; }
+  .av2 .av2-loc-card .av2-loc-role { font-size: var(--fs-sm); color: var(--av2-blue); font-weight: 600; margin-bottom: .9rem; }
+  .av2 .av2-loc-card p { font-size: var(--fs-sm); color: var(--av2-muted); margin: 0 0 .35rem; }
+  .av2 .av2-loc-card a { color: var(--av2-ink); font-weight: 600; text-decoration: none; }
+  .av2 .av2-loc-card a:hover { color: var(--av2-blue); }
+
+  /* ── 10. final cta ───────────────────────────────────────────────────── */
+  .av2-cta { background: linear-gradient(160deg, #0a0f1f 0%, #101a35 60%, #12234d 100%); position: relative; overflow: hidden; }
+  .av2-cta::before { content: ""; position: absolute; inset: 0; background: radial-gradient(720px 320px at 82% 118%, rgba(37, 99, 235, .28), transparent 65%); pointer-events: none; }
+  .av2-cta .av2-container { position: relative; text-align: center; }
+  .av2-cta h2 { color: #fff; max-width: 18em; margin-left: auto; margin-right: auto; }
+  .av2-cta p { color: rgba(203, 213, 225, .8); max-width: 40em; margin: 0 auto 2.25rem; }
+  .av2-cta .av2-cta-row { display: flex; flex-wrap: wrap; gap: .9rem; justify-content: center; }
+  .av2-cta .av2-cta-note { margin-top: 1.5rem; font-size: var(--fs-sm); color: rgba(148, 163, 184, .85); }
+
+  /* ── responsive ──────────────────────────────────────────────────────── */
+  @media (max-width: 1024px) {
+    .av2-trust .av2-trust-grid { grid-template-columns: repeat(2, 1fr); }
+    .av2-models .av2-model-grid { grid-template-columns: 1fr 1fr; }
+    .av2-heads .av2-head-grid { grid-template-columns: repeat(2, 1fr); }
+    .av2-process .av2-steps { grid-template-columns: repeat(2, 1fr); }
+    .av2-why .av2-why-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 820px) {
+    .av2-leaders .av2-exec, .av2-exec-second { grid-template-columns: 1fr; }
+    .av2-leaders .av2-exec-photo { max-width: 380px; }
+    .av2-journey .av2-journey-wrap { grid-template-columns: 1fr; }
+    .av2-journey .av2-journey-side { position: static; }
+  }
+  @media (max-width: 640px) {
+    .av2-models .av2-model-grid, .av2-heads .av2-head-grid, .av2-process .av2-steps, .av2-why .av2-why-grid, .av2-loc .av2-loc-grid { grid-template-columns: 1fr; }
+    .av2-trust .av2-trust-grid { grid-template-columns: 1fr 1fr; }
+    .av2 .av2-btn { width: 100%; justify-content: center; }
+    .av2-hero .av2-cta-row, .av2-cta .av2-cta-row { flex-direction: column; align-items: stretch; }
+  }
+
+  /* reduced motion: kill transforms/transitions */
+  @media (prefers-reduced-motion: reduce) {
+    .av2 *, .av2 *::before, .av2 *::after { transition: none !important; animation: none !important; }
+    .av2 .av2-model:hover, .av2 .av2-headcard:hover, .av2 .av2-btn:hover { transform: none !important; }
+  }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER:START — generated by tools/build-pages.mjs; edit js/header.js then re-run -->
+<a class="a11y-skip-link" href="#main">Skip to main content</a>
+  <header>
+    <nav class="navbar navbar-light blue-bg fixed-top" aria-label="Primary navigation">
+      <div class="container-fluid d-flex justify-content-between">
+        <a class="navbar-brand" href="index.html" aria-label="E Multitech Solution — go to homepage">
+          <img src="images/logo.png" alt="E Multitech Solution" height="42">
+        </a>
+
+        <div class="right--bar">
+          <div class="contact-info">
+            <a id="top-bar-phone" href="https://wa.me/9779851038796" target="_blank" rel="noopener noreferrer"
+               data-wa-default="9779851038796" data-label-default="+977 9851038796"
+               data-wa-au="61406806984" data-label-au="+61 406 806 984"
+               aria-label="Chat with us on WhatsApp at +977 9851038796">
+              <i class="fa-brands fa-whatsapp" aria-hidden="true"></i> <span class="phone-number">+977 9851038796</span>
+            </a>
+          </div>
+          <button class="navbar-toggler" type="button" aria-label="Open navigation menu" aria-expanded="false" aria-controls="navbarMenu" onclick="toggleMenu()">
+            <img src="images/nav-toggle-icon.png" alt="" aria-hidden="true" loading="lazy">
+          </button>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <div class="menu-backdrop" id="menuBackdrop" onclick="closeMenu()" aria-hidden="true"></div>
+  <aside class="navbar-collapse" id="navbarMenu" role="dialog" aria-label="Site navigation menu" aria-modal="false">
+    <button class="menu-close" type="button" aria-label="Close navigation menu" onclick="closeMenu()">&times;</button>
+    <ul class="navbar-nav">
+      <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+      <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+      <li class="nav-item">
+        <button class="nav-link dropdown-toggle" type="button" id="servicesDropdown" aria-haspopup="true" aria-expanded="false" aria-controls="servicesMenu" onclick="toggleDropdown(this)">Services</button>
+        <div class="dropdown-menu" id="servicesMenu" role="menu" aria-labelledby="servicesDropdown">
+          <a class="dropdown-item" role="menuitem" href="ai-powered-solutions.html">AI Solutions &amp; Automation</a>
+          <a class="dropdown-item" role="menuitem" href="custom-software-development.html">Custom Software Development</a>
+          <a class="dropdown-item" role="menuitem" href="saas-development.html">SaaS Product Development</a>
+          <a class="dropdown-item" role="menuitem" href="mobile-development.html">Mobile App Development</a>
+          <a class="dropdown-item" role="menuitem" href="devops-engineer.html">DevOps &amp; Cloud Engineering</a>
+          <a class="dropdown-item" role="menuitem" href="product-engineering.html">Product Engineering</a>
+          <div class="dropdown-subhead" role="presentation">Specialty</div>
+          <a class="dropdown-item" role="menuitem" href="auction-software.html">Auction Software</a>
+        </div>
+      </li>
+      <li class="nav-item"><a class="nav-link" href="case-studies.html">Case Studies</a></li>
+      <li class="nav-item"><a class="nav-link" href="industries.html">Industries</a></li>
+      <li class="nav-item"><a class="nav-link" href="works.html">Our Works</a></li>
+      <li class="nav-item"><a class="nav-link" href="blog.html">Blog</a></li>
+      <li class="nav-item"><a class="nav-link" href="testimonial-all.html">Testimonials</a></li>
+      <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+    </ul>
+  </aside>
+<!-- HEADER:END -->
+
+  <main id="main" class="av2">
+
+    <!-- ── 1. HERO ─────────────────────────────────────────────────────── -->
+    <section class="av2-hero" aria-labelledby="av2-hero-title">
+      <div class="av2-container">
+        <p class="av2-eyebrow" data-reveal>About E Multitech Solution</p>
+        <h1 id="av2-hero-title" data-reveal data-reveal-delay="1">The right technical leadership. The right developers. <span>One accountable engineering partner.</span></h1>
+        <p class="av2-lead" data-reveal data-reveal-delay="2">E Multitech Solution is a founder-led software engineering company from Kathmandu, operating since October 2010. A permanent leadership team and department heads set the technical direction; engineering capacity is assembled around each project&rsquo;s domain, compliance, and scale &mdash; so you get the right team, under one accountable partner.</p>
+        <div class="av2-cta-row" data-reveal data-reveal-delay="3">
+          <a class="av2-btn av2-btn--primary" href="contact.html">Discuss Your Project</a>
+          <a class="av2-btn av2-btn--ghost" href="request_quote.html">Hire Developers</a>
+        </div>
+        <p class="av2-hero-note" data-reveal data-reveal-delay="4">48-hour reply &middot; NDA available on request &middot; Your first call is with an engineer, not a sales rep</p>
+      </div>
+    </section>
+
+    <!-- ── 2. TRUST ────────────────────────────────────────────────────── -->
+    <section class="av2-trust" aria-label="Company track record">
+      <div class="av2-container">
+        <dl class="av2-trust-grid" data-reveal>
+          <div class="av2-stat"><dt>15<sup>+</sup></dt><dd>Years shipping production software, continuously since October 2010</dd></div>
+          <div class="av2-stat"><dt>70<sup>+</sup></dt><dd>Production platforms delivered for clients across 108 countries</dd></div>
+          <div class="av2-stat"><dt>4.8<sup>★</sup></dt><dd>Capterra rating for our auction platform, across 25 verified reviews</dd></div>
+          <div class="av2-stat"><dt>99.4<sup>%</sup></dt><dd>Production uptime held by DiNePa, our digital identity platform work</dd></div>
+        </dl>
+      </div>
+    </section>
+
+    <!-- ── 3. HOW WE WORK ──────────────────────────────────────────────── -->
+    <section class="av2-models" aria-labelledby="av2-models-title">
+      <div class="av2-container">
+        <header class="av2-head av2-head--center" data-reveal>
+          <p class="av2-eyebrow">How We Work</p>
+          <h2 id="av2-models-title">Three ways to engage us.</h2>
+          <p class="av2-lead">Every engagement runs under our technical leadership &mdash; what changes is how much of the delivery you want us to own.</p>
+        </header>
+        <div class="av2-model-grid">
+          <article class="av2-model" data-reveal data-reveal-delay="1">
+            <span class="av2-model-icon" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg></span>
+            <h3>Managed Product Delivery</h3>
+            <p>You bring the goal; we own the outcome. Architecture, engineering, quality assurance, and deployment are delivered end-to-end by our team, with milestones you can hold us to.</p>
+            <p class="av2-model-fit"><strong>Best for:</strong> new products, regulated systems, and full rebuilds</p>
+          </article>
+          <article class="av2-model" data-reveal data-reveal-delay="2">
+            <span class="av2-model-icon" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span>
+            <h3>Dedicated Development Teams</h3>
+            <p>A stable, named team that works as an extension of yours &mdash; same engineers month after month, managed by our department heads, aligned to your roadmap and rituals.</p>
+            <p class="av2-model-fit"><strong>Best for:</strong> long-running products and scaling engineering orgs</p>
+          </article>
+          <article class="av2-model" data-reveal data-reveal-delay="3">
+            <span class="av2-model-icon" aria-hidden="true"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg></span>
+            <h3>Developers On Demand</h3>
+            <p>Senior engineers matched to your stack and domain, embedded in your team when you need extra capacity &mdash; vetted by our technical leadership, not pulled from a marketplace.</p>
+            <p class="av2-model-fit"><strong>Best for:</strong> capacity peaks, specialist skills, and deadline pressure</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── 4. LEADERSHIP ───────────────────────────────────────────────── -->
+    <section class="av2-leaders" aria-labelledby="av2-leaders-title">
+      <div class="av2-container">
+        <header class="av2-head" data-reveal>
+          <p class="av2-eyebrow">Leadership</p>
+          <h2 id="av2-leaders-title">Led by people you can actually reach.</h2>
+          <p class="av2-lead">No agency-shaped wall. The people below answer their own messages &mdash; and stay at the table from first call to production.</p>
+        </header>
+
+        <article class="av2-exec" data-reveal data-reveal-delay="1">
+          <div class="av2-exec-photo">
+            <picture><source srcset="images/roshan.webp" type="image/webp"><img src="images/roshan.png" alt="Roshan Subedi, Founder and Managing Director of E Multitech Solution" width="640" height="800" loading="lazy" decoding="async"></picture>
+          </div>
+          <div>
+            <p class="av2-exec-role">Founder &middot; Managing Director &middot; Technology Lead</p>
+            <h3>Roshan Subedi</h3>
+            <p class="av2-exec-where">Kathmandu, Nepal &middot; UTC+5:45</p>
+            <blockquote>&ldquo;Built to last. Since day one.&rdquo;</blockquote>
+            <p class="av2-exec-bio">Roshan founded E Multitech Solution in October 2010 and has led it continuously ever since &mdash; 15+ years of uninterrupted production delivery, serving clients across 108 countries. He doesn&rsquo;t believe in the cheapest path; he believes in the right one. His standard &mdash; <em>compliance is a culture, not a checkbox</em> &mdash; is why the practice is HIPAA-architected, GDPR compliant, and preparing for its SOC 2 Type 1 audit in 2026. The proof is live: a central bank litigation system in its fifth year of production, DiNePa at 99.4% uptime, and Upkeep.pro architected for 500,000+ daily bookings. <strong>&ldquo;I don&rsquo;t pitch. I prove.&rdquo;</strong></p>
+            <div class="av2-exec-links">
+              <a class="av2-minlink" href="https://www.linkedin.com/in/roshan-subedi-7285b614/" target="_blank" rel="noopener noreferrer" aria-label="Roshan Subedi on LinkedIn"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.5 2h-17A1.5 1.5 0 0 0 2 3.5v17A1.5 1.5 0 0 0 3.5 22h17a1.5 1.5 0 0 0 1.5-1.5v-17A1.5 1.5 0 0 0 20.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 1 1 8.3 6.5a1.78 1.78 0 0 1-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0 0 13 14.19a.66.66 0 0 0 0 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 0 1 2.7-1.4c1.55 0 3.36.86 3.36 3.66z"/></svg> LinkedIn</a>
+              <a class="av2-minlink" href="https://wa.me/9779851038796" target="_blank" rel="noopener noreferrer" aria-label="Message Roshan Subedi on WhatsApp"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.4-.2-.6.1-.2.3-.7.9-.8 1-.2.2-.3.2-.6.1s-1.2-.4-2.3-1.4c-.8-.7-1.4-1.6-1.6-1.9-.2-.3 0-.4.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5.1-.2 0-.3 0-.5s-.6-1.4-.8-2c-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.3.3-1 1-1 2.3s1 2.7 1.1 2.9c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.4s.2-1.2.2-1.3c0-.1-.2-.2-.5-.3zM12 2A10 10 0 0 0 2 12c0 1.8.5 3.5 1.3 4.9L2 22l5.3-1.3A10 10 0 0 0 22 12c0-5.5-4.5-10-10-10z"/></svg> WhatsApp</a>
+            </div>
+          </div>
+        </article>
+
+        <article class="av2-exec av2-exec-second" data-reveal data-reveal-delay="2">
+          <div class="av2-exec-photo">
+            <picture><source srcset="images/santosh.webp" type="image/webp"><img src="images/santosh.jpg" alt="Santosh Bhattarai, Director of Partnerships for Australia and APAC" width="450" height="600" loading="lazy" decoding="async"></picture>
+          </div>
+          <div>
+            <p class="av2-exec-role">Director of Partnerships &middot; Australia &amp; APAC</p>
+            <h3>Santosh Bhattarai</h3>
+            <p class="av2-exec-where">Melbourne, Australia &middot; UTC+10/+11</p>
+            <blockquote>&ldquo;Locally Accessible, Globally Capable&rdquo;</blockquote>
+            <p class="av2-exec-bio">Santosh is the face of E Multitech Solution across Asia-Pacific. His role: turn skepticism into trust, one client outcome at a time &mdash; answering pricing chatter with evidence, and building long-term partnerships with organizations that value compliance, stability, and proven delivery. <strong>&ldquo;We&rsquo;re not for everyone. But if you need a system that won&rsquo;t break, we&rsquo;re for you.&rdquo;</strong></p>
+            <div class="av2-exec-links">
+              <a class="av2-minlink" href="https://www.linkedin.com/in/santosh-bhattarai-654184b4/" target="_blank" rel="noopener noreferrer" aria-label="Santosh Bhattarai on LinkedIn"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M20.5 2h-17A1.5 1.5 0 0 0 2 3.5v17A1.5 1.5 0 0 0 3.5 22h17a1.5 1.5 0 0 0 1.5-1.5v-17A1.5 1.5 0 0 0 20.5 2zM8 19H5v-9h3zM6.5 8.25A1.75 1.75 0 1 1 8.3 6.5a1.78 1.78 0 0 1-1.8 1.75zM19 19h-3v-4.74c0-1.42-.6-1.93-1.38-1.93A1.74 1.74 0 0 0 13 14.19a.66.66 0 0 0 0 .14V19h-3v-9h2.9v1.3a3.11 3.11 0 0 1 2.7-1.4c1.55 0 3.36.86 3.36 3.66z"/></svg> LinkedIn</a>
+              <a class="av2-minlink" href="https://wa.me/61406806984" target="_blank" rel="noopener noreferrer" aria-label="Message Santosh Bhattarai on WhatsApp"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.5 14.4c-.3-.1-1.7-.8-2-.9-.3-.1-.4-.2-.6.1-.2.3-.7.9-.8 1-.2.2-.3.2-.6.1s-1.2-.4-2.3-1.4c-.8-.7-1.4-1.6-1.6-1.9-.2-.3 0-.4.1-.6.1-.1.3-.3.4-.5.1-.2.2-.3.3-.5.1-.2 0-.3 0-.5s-.6-1.4-.8-2c-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.3.3-1 1-1 2.3s1 2.7 1.1 2.9c.1.2 2 3.1 4.9 4.3.7.3 1.2.5 1.6.6.7.2 1.3.2 1.8.1.6-.1 1.7-.7 1.9-1.4s.2-1.2.2-1.3c0-.1-.2-.2-.5-.3zM12 2A10 10 0 0 0 2 12c0 1.8.5 3.5 1.3 4.9L2 22l5.3-1.3A10 10 0 0 0 22 12c0-5.5-4.5-10-10-10z"/></svg> WhatsApp</a>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- ── 5. ENGINEERING LEADERSHIP ───────────────────────────────────── -->
+    <section class="av2-heads" aria-labelledby="av2-heads-title">
+      <div class="av2-container">
+        <header class="av2-head" data-reveal>
+          <p class="av2-eyebrow">Engineering Leadership</p>
+          <h2 id="av2-heads-title">Department heads who own the technical direction.</h2>
+          <p class="av2-lead">Every project is overseen by the department leaders below. They set the engineering standards, review the architecture, and stay accountable for quality &mdash; whichever engagement model you choose.</p>
+        </header>
+        <div class="av2-head-grid">
+          <article class="av2-headcard" data-reveal data-reveal-delay="1">
+            <div class="av2-headcard-photo"><picture><source srcset="images/sujit.webp" type="image/webp"><img src="images/sujit.jpg" alt="Sujit Sah, Head of Software Engineering" width="72" height="72" loading="lazy" decoding="async"></picture></div>
+            <h3>Sujit Sah</h3>
+            <p class="av2-headcard-title">Head of Software Engineering</p>
+            <p>Owns architecture and code quality across every engagement &mdash; systems built to survive audits and scale.</p>
+          </article>
+          <article class="av2-headcard" data-reveal data-reveal-delay="2">
+            <div class="av2-headcard-photo" aria-hidden="true">KS</div>
+            <h3>Kaushal Sah</h3>
+            <p class="av2-headcard-title">Head of Cloud &amp; DevOps</p>
+            <p>Runs cloud infrastructure, CI/CD, and uptime engineering across all production platforms.</p>
+          </article>
+          <article class="av2-headcard" data-reveal data-reveal-delay="3">
+            <div class="av2-headcard-photo"><picture><source srcset="images/indra.webp" type="image/webp"><img src="images/indra.jpg" alt="Indra Kumar Yadav, Head of AI and Intelligent Systems" width="72" height="72" loading="lazy" decoding="async"></picture></div>
+            <h3>Indra Kumar Yadav</h3>
+            <p class="av2-headcard-title">Head of AI &amp; Intelligent Systems</p>
+            <p>Leads applied AI and intelligent-systems work, from LLM integrations to automation pipelines.</p>
+          </article>
+          <article class="av2-headcard" data-reveal data-reveal-delay="4">
+            <div class="av2-headcard-photo"><picture><source srcset="images/manoj.webp" type="image/webp"><img src="images/manoj.jpg" alt="Manoj Kumar Sah, Head of Frontend and Product Experience" width="72" height="72" loading="lazy" decoding="async"></picture></div>
+            <h3>Manoj Kumar Sah</h3>
+            <p class="av2-headcard-title">Head of Frontend &amp; Product Experience</p>
+            <p>Guides frontend engineering and product experience so shipped software feels as good as it runs.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── 6. FLEXIBLE ENGINEERING MODEL ───────────────────────────────── -->
+    <section class="av2-process" aria-labelledby="av2-process-title">
+      <div class="av2-container">
+        <header class="av2-head" data-reveal>
+          <p class="av2-eyebrow">Flexible Engineering Model</p>
+          <h2 id="av2-process-title">Leadership stays constant. Capacity flexes.</h2>
+          <p class="av2-lead">We don&rsquo;t keep a bench of idle generalists, and we never pull strangers from a marketplace. Our permanent leadership assembles the engineering team each project actually needs &mdash; matched by domain, stack, and compliance experience &mdash; and stays accountable for the result.</p>
+        </header>
+        <div class="av2-steps">
+          <div class="av2-step" data-reveal data-reveal-delay="1">
+            <h3>Discover</h3>
+            <p>A 30-minute engineering call &mdash; no slides. We map your domain, constraints, compliance needs, and what production success looks like.</p>
+          </div>
+          <div class="av2-step" data-reveal data-reveal-delay="2">
+            <h3>Plan</h3>
+            <p>Architecture first. You get a technical plan with scope, milestones, and the exact team shape the project needs &mdash; before commitments.</p>
+          </div>
+          <div class="av2-step" data-reveal data-reveal-delay="3">
+            <h3>Assemble Team</h3>
+            <p>Department heads select engineers by domain fit and vet every assignment. The people you meet are the people who build.</p>
+          </div>
+          <div class="av2-step" data-reveal data-reveal-delay="4">
+            <h3>Deliver</h3>
+            <p>Transparent milestones, direct communication with the builders, and support that continues after go-live &mdash; not a handover and goodbye.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── 7. WHY COMPANIES CHOOSE US ──────────────────────────────────── -->
+    <section class="av2-why" aria-labelledby="av2-why-title">
+      <div class="av2-container">
+        <header class="av2-head" data-reveal>
+          <p class="av2-eyebrow">Why Companies Choose Us</p>
+          <h2 id="av2-why-title">What you actually get with us.</h2>
+          <p class="av2-lead">Not slogans &mdash; the working habits that keep 15-year-old systems in production.</p>
+        </header>
+        <div class="av2-why-grid" data-reveal>
+          <div class="av2-why-cell"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg><h3>Engineering Leadership</h3><p>Senior technical direction on every engagement &mdash; the founder still reviews architecture.</p></div>
+          <div class="av2-why-cell"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg><h3>Scalable Teams</h3><p>Grow from two engineers to a full delivery team without changing partners.</p></div>
+          <div class="av2-why-cell"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg><h3>Flexible Capacity</h3><p>Staffing follows your roadmap &mdash; scale up for launches, down after stabilization.</p></div>
+          <div class="av2-why-cell"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><h3>Direct Communication</h3><p>You talk to the engineers who write the code &mdash; no account-manager relay.</p></div>
+          <div class="av2-why-cell"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 15.5 14"/></svg><h3>Long-term Partnership</h3><p>Client systems live for years here &mdash; a central bank platform is in year five.</p></div>
+          <div class="av2-why-cell"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg><h3>Quality Assurance</h3><p>Review, testing, and security checks are built into delivery &mdash; not sold separately.</p></div>
+          <div class="av2-why-cell"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg><h3>Architecture First</h3><p>Systems are designed before they&rsquo;re built &mdash; audits, load, and compliance in mind.</p></div>
+          <div class="av2-why-cell"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg><h3>Transparent Delivery</h3><p>Milestones, demos, and honest status &mdash; including the news you&rsquo;d rather not hear.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── 8. COMPANY JOURNEY ──────────────────────────────────────────── -->
+    <section class="av2-journey" aria-labelledby="av2-journey-title">
+      <div class="av2-container">
+        <div class="av2-journey-wrap">
+          <div class="av2-journey-side" data-reveal>
+            <p class="av2-eyebrow">Company Journey</p>
+            <h2 id="av2-journey-title">Fifteen years, one thread: systems that stay up.</h2>
+            <p class="av2-lead">From a Kathmandu startup to platforms trusted by a central bank &mdash; the through-line has always been production reliability.</p>
+          </div>
+          <ol class="av2-tl">
+            <li data-reveal data-reveal-delay="1">
+              <span class="av2-tl-when">October 2010</span>
+              <h3>Founded in Kathmandu</h3>
+              <p>Roshan Subedi starts E Multitech Solution with a single thesis: operations-critical software should be engineered, not assembled.</p>
+            </li>
+            <li data-reveal data-reveal-delay="2">
+              <span class="av2-tl-when">The 2010s</span>
+              <h3>Global marketplace era</h3>
+              <p>Auction and e-commerce platforms ship to clients worldwide &mdash; the foundation of today&rsquo;s 70+ platform track record across 108 countries, and a 4.8&#9733; Capterra rating.</p>
+            </li>
+            <li data-reveal data-reveal-delay="3">
+              <span class="av2-tl-when">The 2020s</span>
+              <h3>Regulated-sector proof</h3>
+              <p>Nepal&rsquo;s central bank litigation system goes live (now in year five). DiNePa digital identity work holds 99.4% uptime. HIPAA-architected healthcare SaaS ships to the US market.</p>
+            </li>
+            <li data-reveal data-reveal-delay="4">
+              <span class="av2-tl-when">Recent Years</span>
+              <h3>Scale as a discipline</h3>
+              <p>Upkeep.pro is architected for 500,000+ daily bookings &mdash; and the flexible engineering model formalizes: permanent leadership, capacity assembled per project.</p>
+            </li>
+            <li data-reveal data-reveal-delay="5">
+              <span class="av2-tl-when">2026</span>
+              <h3>SOC 2 on the calendar</h3>
+              <p>SOC 2 Type 1 audit scheduled &mdash; formalizing the compliance culture that clients in healthcare, banking, and government already rely on.</p>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── 9. LOCATIONS ────────────────────────────────────────────────── -->
+    <section class="av2-loc" aria-labelledby="av2-loc-title">
+      <div class="av2-container">
+        <header class="av2-head" data-reveal>
+          <p class="av2-eyebrow">Where We Are</p>
+          <h2 id="av2-loc-title">Two timezones, one team.</h2>
+        </header>
+        <div class="av2-loc-grid">
+          <div class="av2-loc-card" data-reveal data-reveal-delay="1">
+            <span class="av2-loc-flag" aria-hidden="true">🇳🇵</span>
+            <h3>Kathmandu, Nepal</h3>
+            <p class="av2-loc-role">Engineering Headquarters</p>
+            <p>E Multitech Solution Pvt. Ltd. &mdash; the in-house engineering team, registered in Nepal since October 2010.</p>
+            <p>UTC+5:45 &middot; <a href="https://wa.me/9779851038796" target="_blank" rel="noopener noreferrer">WhatsApp +977 9851038796</a></p>
+          </div>
+          <div class="av2-loc-card" data-reveal data-reveal-delay="2">
+            <span class="av2-loc-flag" aria-hidden="true">🇦🇺</span>
+            <h3>Melbourne, Australia</h3>
+            <p class="av2-loc-role">Partnerships &mdash; Australia &amp; APAC</p>
+            <p>Local representation for Australian and Asia-Pacific clients, led by Santosh Bhattarai.</p>
+            <p>UTC+10/+11 &middot; <a href="https://wa.me/61406806984" target="_blank" rel="noopener noreferrer">WhatsApp +61 406 806 984</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ── 10. FINAL CTA ───────────────────────────────────────────────── -->
+    <section class="av2-cta" aria-labelledby="av2-cta-title">
+      <div class="av2-container">
+        <p class="av2-eyebrow" data-reveal>Work With Us</p>
+        <h2 id="av2-cta-title" data-reveal data-reveal-delay="1">Tell us what you&rsquo;re building. We&rsquo;ll tell you honestly if we&rsquo;re the right team.</h2>
+        <p data-reveal data-reveal-delay="2">Start with a 30-minute engineering call &mdash; no slides, no sales script. If the fit is right, we&rsquo;ll say yes. If not, we&rsquo;ll tell you.</p>
+        <div class="av2-cta-row" data-reveal data-reveal-delay="3">
+          <a class="av2-btn av2-btn--onDark" href="contact.html">Discuss Your Project</a>
+          <a class="av2-btn av2-btn--ghostDark" href="request_quote.html">Hire Developers</a>
+        </div>
+        <p class="av2-cta-note" data-reveal data-reveal-delay="4">48-hour reply &middot; NDA available on request &middot; Your first call is with an engineer</p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER:START — generated by tools/build-pages.mjs; edit js/footer.js then re-run -->
+<footer class="footer-container">
+    <div class="container-fluid">
+
+      <div class="footer-top">
+        <div class="contact-box">
+          <div class="contact-icon">
+            <img src="images/map-icon.png" alt="Map Pin Icon">
+          </div>
+          <div class="contact-address">
+            <h4>KATHMANDU</h4>
+            <p>Near UN Office, Kupondol, Lalitpur, Nepal<br>
+               Mobile: <a href="https://wa.me/9779851038796" target="_blank" rel="noopener noreferrer">+977 9851038796</a>
+            </p>
+          </div>
+        </div>
+        <div class="contact-box">
+          <div class="contact-icon">
+            <img src="images/map-icon.png" alt="Map Pin Icon">
+          </div>
+          <div class="contact-address">
+            <h4>Melbourne</h4>
+            <p>Australia &middot; APAC partner <a href="https://www.linkedin.com/in/santosh-bhattarai-654184b4/" target="_blank" rel="noopener noreferrer">Santosh Bhattarai</a><br>
+               Mobile: <a href="https://wa.me/61406806984" target="_blank" rel="noopener noreferrer">+61 406 806 984</a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Trust strip — elite credentials row above the link columns -->
+      <div class="footer-trust" aria-label="Company credentials">
+        <a class="footer-trust__item" href="https://www.capterra.com/p/130933/E-Multitech-Auction/" target="_blank" rel="noopener noreferrer" aria-label="4.8 stars on Capterra from 25 verified reviews">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27z"/></svg>
+          <span><strong>4.8</strong> on Capterra <span class="footer-trust__meta">(25 verified reviews)</span></span>
+        </a>
+        <span class="footer-trust__sep" aria-hidden="true">·</span>
+        <span class="footer-trust__item" aria-label="15 plus years in production">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          <span><strong>15+ years</strong> shipping production software</span>
+        </span>
+        <span class="footer-trust__sep" aria-hidden="true">·</span>
+        <span class="footer-trust__item" aria-label="70 plus platforms shipped">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+          <span><strong>70+ platforms</strong> shipped across 108 countries</span>
+        </span>
+        <span class="footer-trust__sep" aria-hidden="true">·</span>
+        <a class="footer-trust__item" href="security.html" aria-label="Security and compliance practices">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          <span><strong>HIPAA-architected</strong> &middot; GDPR &middot; SOC 2 in 2026</span>
+        </a>
+      </div>
+
+      <div class="footer-middle">
+        <div class="footer-logo fade-slide">
+          <img src="images/footer-logo.png" alt="eMultiTechSolutions Logo" loading="lazy">
+          <p>We craft, launch, and scale high-performance web, mobile, and wearable applications — from design to development, testing, and ongoing growth.</p>
+        </div>
+
+        <div class="footer-column fade-slide">
+          <h5>Services</h5>
+          <ul>
+            <li><a href="ai-powered-solutions.html"         class="footer-text">AI Powered Solutions</a></li>
+            <li><a href="mobile-development.html"   class="footer-text">Mobile App Development</a></li>
+            <li><a href="saas-development.html"      class="footer-text">SaaS Development</a></li>
+            <li><a href="custom-software-development.html" class="footer-text">Custom Software Development</a></li>
+            <li><a href="devops-engineer.html"      class="footer-text">DevOps Engineer</a></li>
+            <li><a href="product-engineering.html"    class="footer-text">Product Engineering</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column fade-slide">
+          <h5>Industries</h5>
+          <ul>
+            <li><a href="healthcare.html"        class="footer-text">Healthcare</a></li>
+            <li><a href="realestate.html"         class="footer-text">Real Estate</a></li>
+            <li><a href="auction-software.html"  class="footer-text">Auction Software</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-column fade-slide">
+          <h5>Information</h5>
+          <ul>
+            <li><a href="about.html"               class="footer-text">About Us</a></li>
+            <li><a href="security.html"            class="footer-text">Security &amp; Compliance</a></li>
+            <li><a href="privacy-policy.html"      class="footer-text">Privacy Policy</a></li>
+            <li><a href="terms-of-condition.html"  class="footer-text">Terms and Condition</a></li>
+            <li><a href="cookie-policy.html"       class="footer-text">Cookie Policy</a></li>
+            <li><a href="contact.html"             class="footer-text">Contact Us</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>
+          &copy; 2010 &ndash; 2026 E Multitech Solution Pvt. Ltd.
+          <span class="footer-credentials">&middot; Registered in Nepal &middot; Founded October 2010 &middot; Shipping production software for 15 years</span>
+        </p>
+        <div class="social-icons">
+          <a href="https://www.capterra.com/p/130933/E-Multitech-Auction/" target="_blank" rel="noopener noreferrer" aria-label="E Multitech Solution on Capterra (4.8 stars, 25 verified reviews)" title="4.8★ on Capterra · 25 verified reviews">
+            <i class="fa-solid fa-star" aria-hidden="true"></i>
+          </a>
+          <a href="https://www.facebook.com/emultitechsolutionnepal" target="_blank" rel="noopener noreferrer" aria-label="E Multitech Solution on Facebook">
+            <i class="fa-brands fa-facebook-f" aria-hidden="true"></i>
+          </a>
+          <a href="https://www.linkedin.com/company/emultitechsolution" target="_blank" rel="noopener noreferrer" aria-label="E Multitech Solution on LinkedIn">
+            <i class="fa-brands fa-linkedin-in" aria-hidden="true"></i>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </footer>
+<!-- FOOTER:END -->
+
+  <script src="js/header.js"></script>
+  <script src="js/footer.js"></script>
+  <script src="js/script.js"></script>
+  <script src="js/reveal.js" defer></script>
+  <script>
+  // Failsafe (page-scoped): theme.css hides [data-reveal] until reveal.js's
+  // IntersectionObserver fires. If nothing has revealed shortly after load
+  // (observer unavailable/failed), show everything rather than a blank page.
+  window.addEventListener('load', function () {
+    setTimeout(function () {
+      if (!document.querySelector('.av2 [data-reveal].is-visible')) {
+        document.querySelectorAll('.av2 [data-reveal]').forEach(function (el) {
+          el.classList.add('is-visible');
+        });
+      }
+    }, 800);
+  });
+  </script>
+</body>
+</html>
