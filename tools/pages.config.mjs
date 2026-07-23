@@ -16,7 +16,7 @@
  */
 
 export const SITE = {
-  url: 'https://emultitechsolution.com',
+  url: 'https://www.emultitechsolution.com',
   name: 'E Multitech Solution',
   legalName: 'E Multitech Solution Pvt. Ltd.',
   brandSuffix: ' | E Multitech Solution',

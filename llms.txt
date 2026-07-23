@@ -2,81 +2,81 @@
 
 > Custom software, SaaS, AI, and mobile development partner building software continuously since 2010. Headquartered in Kathmandu, Nepal with a presence in Melbourne, Australia. Serving clients globally since 2010.
 
-Use this file to discover the site's structure and the canonical URL for each page. Each link below points to the production page on https://emultitechsolution.com.
+Use this file to discover the site's structure and the canonical URL for each page. Each link below points to the production page on https://www.emultitechsolution.com.
 
 ## Company
 
-- [Custom Software, SaaS & AI Partner](https://emultitechsolution.com/): Founder-led software engineering since 2010. hundreds of projects delivered worldwide — central-bank systems, European SaaS, marketplaces at scale.
-- [About — Software Engineering Since 2010](https://emultitechsolution.com/about.html): Software engineering and digital product company established in Kathmandu in 2010 — AI-native engineering, auction expertise and platforms built to last.
-- [Book a Strategy Call](https://emultitechsolution.com/contact.html): Book a free strategy call with the E Multitech engineering team. Pick a date and time slot — we confirm within 24 hours, no auto-responders.
-- [Get a Free Project Consultation](https://emultitechsolution.com/request_quote.html): Request a free project consultation. Tell us about your project, pick a discovery call slot, and get a response within 48 hours.
-- [Case Studies — Software We Shipped](https://emultitechsolution.com/case-studies.html): Real-world case studies from E Multitech: SaaS, AI, fintech, healthcare, auction platforms, and enterprise systems deployed for clients across 4 continents.
-- [Our Team — Engineering & Leadership](https://emultitechsolution.com/team.html): Meet the team behind hundreds of projects. Founder-led in-house engineering in Kathmandu since October 2010, APAC partner in Melbourne. No subcontractors.
-- [Security & Compliance Posture](https://emultitechsolution.com/security.html): Our security architecture, compliance posture & due-diligence summary — HIPAA-aligned, BAA available, multi-tenant isolation. For US & EU clients.
+- [Custom Software, SaaS & AI Partner](https://www.emultitechsolution.com/): Founder-led software engineering since 2010. hundreds of projects delivered worldwide — central-bank systems, European SaaS, marketplaces at scale.
+- [About — Software Engineering Since 2010](https://www.emultitechsolution.com/about.html): Software engineering and digital product company established in Kathmandu in 2010 — AI-native engineering, auction expertise and platforms built to last.
+- [Book a Strategy Call](https://www.emultitechsolution.com/contact.html): Book a free strategy call with the E Multitech engineering team. Pick a date and time slot — we confirm within 24 hours, no auto-responders.
+- [Get a Free Project Consultation](https://www.emultitechsolution.com/request_quote.html): Request a free project consultation. Tell us about your project, pick a discovery call slot, and get a response within 48 hours.
+- [Case Studies — Software We Shipped](https://www.emultitechsolution.com/case-studies.html): Real-world case studies from E Multitech: SaaS, AI, fintech, healthcare, auction platforms, and enterprise systems deployed for clients across 4 continents.
+- [Our Team — Engineering & Leadership](https://www.emultitechsolution.com/team.html): Meet the team behind hundreds of projects. Founder-led in-house engineering in Kathmandu since October 2010, APAC partner in Melbourne. No subcontractors.
+- [Security & Compliance Posture](https://www.emultitechsolution.com/security.html): Our security architecture, compliance posture & due-diligence summary — HIPAA-aligned, BAA available, multi-tenant isolation. For US & EU clients.
 
 ## Services
 
-- [Custom Software Development Services](https://emultitechsolution.com/custom-software-development.html): Custom software built for production load since 2010. Litigation system for Nepal Rastra Bank, EU procurement SaaS, hundreds of projects delivered worldwide.
-- [SaaS Product Development Services](https://emultitechsolution.com/saas-development.html): Multi-tenant SaaS built to survive years in production. DiNePa: 99.4% uptime over 5+ years, sub-500ms latency for EU enterprise procurement.
-- [Mobile App Development Services](https://emultitechsolution.com/mobile-development.html): iOS, Android, Flutter & React Native apps for marketplaces, logistics & healthcare EVV. Upkeep.pro: 500K+ daily appointments for 10K+ pros worldwide.
-- [AI Solutions & Agentic Automation](https://emultitechsolution.com/ai-powered-solutions.html): AI engineered into production systems — document intelligence, voice-to-text, risk detection, predictive ops. Built for regulated industries since 2010.
-- [DevOps & Cloud Engineering](https://emultitechsolution.com/devops-engineer.html): Cloud, CI/CD, Kubernetes, IaC & SRE. DiNePa: 99.4% uptime over 5+ years. NRB: central-bank-grade intranet deployment. Founder-led since 2010.
-- [Product Engineering Services](https://emultitechsolution.com/product-engineering.html): End-to-end product engineering — discovery, design, build, ship, scale. For founders without a CTO. hundreds of projects across four verticals.
-- [Software Development Services](https://emultitechsolution.com/software-development.html): Secure, scalable, high-performance software that streamlines operations and elevates user experience. Web, mobile, SaaS, and enterprise systems.
-- [Healthcare SaaS Development Services](https://emultitechsolution.com/healthcare-saas-development.html): HIPAA-architected healthcare SaaS for US home care, EVV & AI document intelligence. Founder-led since 2010 · in-house engineering team.
-- [Auction Software Development Services](https://emultitechsolution.com/auction-software.html): Penny, reverse, unique-bid, Dutch, price-reveal & eBay-style auction software, built since 2010 for operators across the US, UK, EU, Asia & Australia.
-- [Banking & Fintech Software Development](https://emultitechsolution.com/banking-fintech-software-development.html): Central-bank-grade software: case tracking, audit logs, document management & regulatory workflow. Anchored by the Nepal Rastra Bank litigation system.
+- [Custom Software Development Services](https://www.emultitechsolution.com/custom-software-development.html): Custom software built for production load since 2010. Litigation system for Nepal Rastra Bank, EU procurement SaaS, hundreds of projects delivered worldwide.
+- [SaaS Product Development Services](https://www.emultitechsolution.com/saas-development.html): Multi-tenant SaaS built to survive years in production. DiNePa: 99.4% uptime over 5+ years, sub-500ms latency for EU enterprise procurement.
+- [Mobile App Development Services](https://www.emultitechsolution.com/mobile-development.html): iOS, Android, Flutter & React Native apps for marketplaces, logistics & healthcare EVV. Upkeep.pro: 500K+ daily appointments for 10K+ pros worldwide.
+- [AI Solutions & Agentic Automation](https://www.emultitechsolution.com/ai-powered-solutions.html): AI engineered into production systems — document intelligence, voice-to-text, risk detection, predictive ops. Built for regulated industries since 2010.
+- [DevOps & Cloud Engineering](https://www.emultitechsolution.com/devops-engineer.html): Cloud, CI/CD, Kubernetes, IaC & SRE. DiNePa: 99.4% uptime over 5+ years. NRB: central-bank-grade intranet deployment. Founder-led since 2010.
+- [Product Engineering Services](https://www.emultitechsolution.com/product-engineering.html): End-to-end product engineering — discovery, design, build, ship, scale. For founders without a CTO. hundreds of projects across four verticals.
+- [Software Development Services](https://www.emultitechsolution.com/software-development.html): Secure, scalable, high-performance software that streamlines operations and elevates user experience. Web, mobile, SaaS, and enterprise systems.
+- [Healthcare SaaS Development Services](https://www.emultitechsolution.com/healthcare-saas-development.html): HIPAA-architected healthcare SaaS for US home care, EVV & AI document intelligence. Founder-led since 2010 · in-house engineering team.
+- [Auction Software Development Services](https://www.emultitechsolution.com/auction-software.html): Penny, reverse, unique-bid, Dutch, price-reveal & eBay-style auction software, built since 2010 for operators across the US, UK, EU, Asia & Australia.
+- [Banking & Fintech Software Development](https://www.emultitechsolution.com/banking-fintech-software-development.html): Central-bank-grade software: case tracking, audit logs, document management & regulatory workflow. Anchored by the Nepal Rastra Bank litigation system.
 
 ## Industries
 
-- [Industries We Ship Production Software For](https://emultitechsolution.com/industries.html): Healthcare, banking, procurement, real estate, marketplaces & IoT — every vertical anchored by a named production case study. since 2010, hundreds of projects.
-- [Healthcare Software Development](https://emultitechsolution.com/healthcare.html): EHR, telehealth, clinical workflow, and hospital management software — engineered with HIPAA-architected isolation. Anchored by Adult Home Care SaaS case study.
-- [Real Estate Software Development](https://emultitechsolution.com/realestate.html): Property marketplaces, multi-class listings, MLS/IDX integrations, agent CMS & mortgage-ready lead capture. Anchored by MSG Homes, live in the Philippines.
+- [Industries We Ship Production Software For](https://www.emultitechsolution.com/industries.html): Healthcare, banking, procurement, real estate, marketplaces & IoT — every vertical anchored by a named production case study. Building since 2010.
+- [Healthcare Software Development](https://www.emultitechsolution.com/healthcare.html): EHR, telehealth, clinical workflow, and hospital management software — engineered with HIPAA-architected isolation. Anchored by Adult Home Care SaaS case study.
+- [Real Estate Software Development](https://www.emultitechsolution.com/realestate.html): Property marketplaces, multi-class listings, MLS/IDX integrations, agent CMS & mortgage-ready lead capture. Anchored by MSG Homes, live in the Philippines.
 
 ## Auction software products
 
-- [Penny Auction Software (Live Bidding)](https://emultitechsolution.com/penny-live-auction-script-software.html): Live penny auction software with bid extensions, bidding fees, auto-bid, and full operator controls. Deployed for clients across the US, UK, and EU since 2010.
-- [Highest Unique Bid Auction Script](https://emultitechsolution.com/highest-unique-bids-auction-script-online-highest-bid-software-services.html): Highest Unique Bid auction software — secure scripts, full customization & proven deployments. Built for global auction operators since 2010.
-- [Lowest Unique Bid Auction Script](https://emultitechsolution.com/lowest-unique-bid-auction-script-online-software-reverse-auction-low-bid.html): Customizable Lowest Unique Bid auction software for global operators. Reverse auction logic, secure scripts, and full operator control panel.
-- [Price Reveal Auction Script](https://emultitechsolution.com/price-reveal-auction-script-express-auction-software-live-unique-bidding-system.html): Customized Price Reveal Auction scripts — hand-crafted, fully featured, and built on the latest stack. Proven across South-East Asia and global operators.
-- [eBay-Style Marketplace Auction Script](https://emultitechsolution.com/ebay-auction-like-ebay-script.html): eBay-style marketplace auction script — 100% open-source, ready-built, fully customizable. Supports single and multi-seller marketplaces with one admin panel.
+- [Penny Auction Software (Live Bidding)](https://www.emultitechsolution.com/penny-live-auction-script-software.html): Live penny auction software with bid extensions, bidding fees, auto-bid, and full operator controls. Deployed for clients across the US, UK, and EU since 2010.
+- [Highest Unique Bid Auction Script](https://www.emultitechsolution.com/highest-unique-bids-auction-script-online-highest-bid-software-services.html): Highest Unique Bid auction software — secure scripts, full customization & proven deployments. Built for global auction operators since 2010.
+- [Lowest Unique Bid Auction Script](https://www.emultitechsolution.com/lowest-unique-bid-auction-script-online-software-reverse-auction-low-bid.html): Customizable Lowest Unique Bid auction software for global operators. Reverse auction logic, secure scripts, and full operator control panel.
+- [Price Reveal Auction Script](https://www.emultitechsolution.com/price-reveal-auction-script-express-auction-software-live-unique-bidding-system.html): Customized Price Reveal Auction scripts — hand-crafted, fully featured, and built on the latest stack. Proven across South-East Asia and global operators.
+- [eBay-Style Marketplace Auction Script](https://www.emultitechsolution.com/ebay-auction-like-ebay-script.html): eBay-style marketplace auction script — 100% open-source, ready-built, fully customizable. Supports single and multi-seller marketplaces with one admin panel.
 
 ## Client showcases
 
-- [AuctionCents — US Penny Auction](https://emultitechsolution.com/auctioncents.html): AuctionCents is a leading US penny auction platform built by E Multitech: membership tiers, auto-bid, master auto-bid, 24h, free, and bonus auctions.
-- [BidBid.co.uk — Penny Auction Software](https://emultitechsolution.com/bidbid.html): BidBid.co.uk: a robust penny auction platform built with Node.js, PHP, MySQL, and jQuery. Auto-bid, CSV product upload, bonus auctions, 24h auctions.
-- [Bienbid — French Penny Auction](https://emultitechsolution.com/bienbid.html): Bienbid: a multilingual penny auction website with full French language support, a pre-bid booking system, auto-bid, and a flexible operator feature set.
-- [EodBox — Unique Bid Auction Platform](https://emultitechsolution.com/eodbox.html): EodBox: a Unique Bid auction with two-decimal-place bids, multi-currency, multi-language, PayTM / CCAvenue / PayPal, and push notifications, built on MVC.
-- [OnlineAlku — B2B Reverse Auction](https://emultitechsolution.com/onlinealku.html): OnlineAlku is a multi-seller, multi-buyer B2B reverse auction platform. Tender-style procurement where buyers post needs and suppliers compete with live quotes.
-- [PigeonOnNet — Live Video Auction](https://emultitechsolution.com/pigeononnet.html): PigeonOnNet: a Dutch-style auction platform with live video streaming and simulcast for selling pigeons, plus forward and price-reveal auction support.
-- [Rubids — Live Auction Marketplace](https://emultitechsolution.com/rubids.html): Rubids is a live auction marketplace with daily auctions across many categories — iOS, Android, and web — with coupons, games, and earning opportunities.
-- [SMG Bids — Lowest Unique Bid (UK)](https://emultitechsolution.com/smgbids.html): SMG Bids: a Lowest Unique Bid auction platform built for a UK client. Smartphone-ready, fast, with a user-friendly operator control panel.
-- [uBiduBuy.sg — Low Bid + Reveal](https://emultitechsolution.com/ubidbuy.html): uBiduBuy: a Singapore-based luxury auction marketplace combining Lowest Unique Bid and Price Reveal formats with credit refund options for participants.
+- [AuctionCents — US Penny Auction](https://www.emultitechsolution.com/auctioncents.html): AuctionCents is a leading US penny auction platform built by E Multitech: membership tiers, auto-bid, master auto-bid, 24h, free, and bonus auctions.
+- [BidBid.co.uk — Penny Auction Software](https://www.emultitechsolution.com/bidbid.html): BidBid.co.uk: a robust penny auction platform built with Node.js, PHP, MySQL, and jQuery. Auto-bid, CSV product upload, bonus auctions, 24h auctions.
+- [Bienbid — French Penny Auction](https://www.emultitechsolution.com/bienbid.html): Bienbid: a multilingual penny auction website with full French language support, a pre-bid booking system, auto-bid, and a flexible operator feature set.
+- [EodBox — Unique Bid Auction Platform](https://www.emultitechsolution.com/eodbox.html): EodBox: a Unique Bid auction with two-decimal-place bids, multi-currency, multi-language, PayTM / CCAvenue / PayPal, and push notifications, built on MVC.
+- [OnlineAlku — B2B Reverse Auction](https://www.emultitechsolution.com/onlinealku.html): OnlineAlku is a multi-seller, multi-buyer B2B reverse auction platform. Tender-style procurement where buyers post needs and suppliers compete with live quotes.
+- [PigeonOnNet — Live Video Auction](https://www.emultitechsolution.com/pigeononnet.html): PigeonOnNet: a Dutch-style auction platform with live video streaming and simulcast for selling pigeons, plus forward and price-reveal auction support.
+- [Rubids — Live Auction Marketplace](https://www.emultitechsolution.com/rubids.html): Rubids is a live auction marketplace with daily auctions across many categories — iOS, Android, and web — with coupons, games, and earning opportunities.
+- [SMG Bids — Lowest Unique Bid (UK)](https://www.emultitechsolution.com/smgbids.html): SMG Bids: a Lowest Unique Bid auction platform built for a UK client. Smartphone-ready, fast, with a user-friendly operator control panel.
+- [uBiduBuy.sg — Low Bid + Reveal](https://www.emultitechsolution.com/ubidbuy.html): uBiduBuy: a Singapore-based luxury auction marketplace combining Lowest Unique Bid and Price Reveal formats with credit refund options for participants.
 
 ## Case studies
 
-- [SaaS EHR Case Study — Multi-Hospital](https://emultitechsolution.com/case-studies-detail.html): How we built a SaaS EHR for a US healthcare institution: 25% better regulatory compliance and 50% faster access to patient records.
-- [DiNePa — Digital Negotiation SaaS](https://emultitechsolution.com/dinepa-case-study.html): How E Multitech built DiNePa: a multi-tenant real-time digital negotiation platform for European enterprise procurement. Reverse, forward & hybrid bidding.
-- [Litigation System — Nepal Rastra Bank](https://emultitechsolution.com/litigation-management-system-nepal-rastra-bank.html): Enterprise legal workflow platform built for Nepal Rastra Bank — central-bank-grade compliance, case tracking, document management, and audit logs.
-- [AI-Powered Home Care SaaS — HIPAA Build](https://emultitechsolution.com/adult-home-care-saas-case-study.html): AI-powered, HIPAA-architected home-care SaaS for a US operator — document intelligence, voice-to-text notes, predictive scheduling & risk detection.
-- [Upkeep.pro Marketplace App Case Study](https://emultitechsolution.com/upkeep-service-booking-case-study.html): How E Multitech built Upkeep.pro: dual-sided iOS, Android & web service-booking marketplace doing 500K+ daily appointments for 10K+ professionals worldwide.
-- [MSG Homes — Real Estate Marketplace](https://emultitechsolution.com/msg-homes-realty-case-study.html): How we built msg-homes.com for My Saving Grace Realty — multi-region real estate marketplace covering 6 property types across the Philippines, bank-integrated.
+- [SaaS EHR Case Study — Multi-Hospital](https://www.emultitechsolution.com/case-studies-detail.html): How we built a SaaS EHR for a US healthcare institution: 25% better regulatory compliance and 50% faster access to patient records.
+- [DiNePa — Digital Negotiation SaaS](https://www.emultitechsolution.com/dinepa-case-study.html): How E Multitech built DiNePa: a multi-tenant real-time digital negotiation platform for European enterprise procurement. Reverse, forward & hybrid bidding.
+- [Litigation System — Nepal Rastra Bank](https://www.emultitechsolution.com/litigation-management-system-nepal-rastra-bank.html): Enterprise legal workflow platform built for Nepal Rastra Bank — central-bank-grade compliance, case tracking, document management, and audit logs.
+- [AI-Powered Home Care SaaS — HIPAA Build](https://www.emultitechsolution.com/adult-home-care-saas-case-study.html): AI-powered, HIPAA-architected home-care SaaS for a US operator — document intelligence, voice-to-text notes, predictive scheduling & risk detection.
+- [Upkeep.pro Marketplace App Case Study](https://www.emultitechsolution.com/upkeep-service-booking-case-study.html): How E Multitech built Upkeep.pro: dual-sided iOS, Android & web service-booking marketplace doing 500K+ daily appointments for 10K+ professionals worldwide.
+- [MSG Homes — Real Estate Marketplace](https://www.emultitechsolution.com/msg-homes-realty-case-study.html): How we built msg-homes.com for My Saving Grace Realty — multi-region real estate marketplace covering 6 property types across the Philippines, bank-integrated.
 
 ## Portfolio & social proof
 
-- [Our Portfolio of Software Projects](https://emultitechsolution.com/works.html): Portfolio of web, mobile, SaaS, AI & auction platforms — hundreds of projects delivered worldwide, founder-led and built in-house since 2010.
-- [Client Testimonials](https://emultitechsolution.com/testimonial-all.html): What our clients say about working with E Multitech Solution — from US-based founders to enterprise project leads across Europe and Asia.
+- [Our Portfolio of Software Projects](https://www.emultitechsolution.com/works.html): Portfolio of web, mobile, SaaS, AI & auction platforms — hundreds of projects delivered worldwide, founder-led and built in-house since 2010.
+- [Client Testimonials](https://www.emultitechsolution.com/testimonial-all.html): What our clients say about working with E Multitech Solution — from US-based founders to enterprise project leads across Europe and Asia.
 
 ## Blog
 
-- [Engineering Blog — SaaS & AI](https://emultitechsolution.com/blog.html): Engineering insights on custom software, SaaS, AI, and product strategy from the E Multitech team. Articles for founders, CTOs, and product leaders.
-- [Crypto Exchange Fees in Australia](https://emultitechsolution.com/blog-detail.html): Understand how Australian crypto exchange fees work, what to look out for, and how to choose the right exchange. A comprehensive guide for Aussie traders.
+- [Engineering Blog — SaaS & AI](https://www.emultitechsolution.com/blog.html): Engineering insights on custom software, SaaS, AI, and product strategy from the E Multitech team. Articles for founders, CTOs, and product leaders.
+- [Crypto Exchange Fees in Australia](https://www.emultitechsolution.com/blog-detail.html): Understand how Australian crypto exchange fees work, what to look out for, and how to choose the right exchange. A comprehensive guide for Aussie traders.
 
 ## Legal
 
-- [Privacy Policy](https://emultitechsolution.com/privacy-policy.html): How E Multitech Solution collects, uses, and protects your personal information when you use this website or engage with our team.
-- [Terms & Conditions](https://emultitechsolution.com/terms-of-condition.html): Terms and conditions governing your use of the E Multitech Solution website and services. Please read before engaging our team.
-- [Cookie Policy](https://emultitechsolution.com/cookie-policy.html): How E Multitech Solution uses cookies on this website, what each category is for, and how you can manage your cookie preferences.
+- [Privacy Policy](https://www.emultitechsolution.com/privacy-policy.html): How E Multitech Solution collects, uses, and protects your personal information when you use this website or engage with our team.
+- [Terms & Conditions](https://www.emultitechsolution.com/terms-of-condition.html): Terms and conditions governing your use of the E Multitech Solution website and services. Please read before engaging our team.
+- [Cookie Policy](https://www.emultitechsolution.com/cookie-policy.html): How E Multitech Solution uses cookies on this website, what each category is for, and how you can manage your cookie preferences.
 
 ## Contact
 

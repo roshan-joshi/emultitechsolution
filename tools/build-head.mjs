@@ -32,7 +32,7 @@ const SKIP = new Set(['index_1.html', 'index-orbital.html']);
 // 3. Re-run:  node tools/build-head.mjs   (or: npm run build)
 // Both are empty by default, so nothing is injected until you fill them in.
 const GA4_ID = 'G-ME0ELYTGVS';  // e.g. 'G-ABCD123XYZ'
-const GSC_VERIFICATION = '';  // e.g. 'aBcDeFg...' (content attr only)
+const GSC_VERIFICATION = 'Tz4KyO6B99FOoagcMnPY6kWThwGXTOBPju7b_7ZiaZ4';  // e.g. 'aBcDeFg...' (content attr only)
 
 const ANALYTICS_START = '<!-- ANALYTICS:START — managed by tools/build-head.mjs -->';
 const ANALYTICS_END = '<!-- ANALYTICS:END -->';

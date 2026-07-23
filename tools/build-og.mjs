@@ -63,7 +63,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
   <line x1="80" y1="555" x2="1120" y2="555" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
 
   <!-- Footer: domain + tagline -->
-  <text x="80" y="590" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="20" fill="#ffffff" letter-spacing="0.5">emultitechsolution.com</text>
+  <text x="80" y="590" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="20" fill="#ffffff" letter-spacing="0.5">www.emultitechsolution.com</text>
   <text x="1120" y="590" font-family="Inter, Arial, sans-serif" font-weight="500" font-size="18" fill="rgba(255,255,255,0.55)" text-anchor="end">Custom Software &#183; SaaS &#183; AI &#183; Mobile</text>
 </svg>`;
 
